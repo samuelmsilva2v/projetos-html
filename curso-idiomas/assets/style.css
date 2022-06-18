@@ -1,0 +1,71 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+
+}
+
+img{
+    width: 30px;
+    margin-top: 10px;
+}
+
+div{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 14px;
+    margin: 4px auto;
+
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    font-size: 16px;
+    font-weight: normal;
+    color: dodgerblue;
+}
+
+h3{
+    font-size: 16px;
+    margin: 4px;
+}
+
+.topo{
+    height: 190px;
+    background-color: gainsboro;
+    text-align: center;
+}
+
+.topo img{
+    background-color: white;
+    width: 150px;
+    margin-top: 15px;
+}
+
+.secao-azul{
+    background-color: dodgerblue;
+    width: 650px;
+    height: 100px;
+    margin: 10px auto 10px auto;
+}
+
+.secao-azul h3{
+    color: white;
+}
+
+.secao-azul p{
+    color: white;
+}
+
+.rodape{
+    margin: 20px auto;
+}
+
+.rodape p{
+    color: dodgerblue;
+}
