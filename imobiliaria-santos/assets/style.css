@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.texto-amarelo{
+    color: #fff81b;
+}
+
+.subtitulo-corretores{
+    font-weight: bold;
+}
+
+span{
+    font-weight: bold;
+}
+
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.secao-entrada{
+    background-color: #afddfb;
+}
+
+.secao-entrada img{
+    width: 150px;
+}
+
+.secao-entrada p{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.secao-entrada a{
+    color: #1d1d1d;
+    font-size: 18px;
+    border-bottom: 1px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+}
+
+.secao-sobre{
+    padding: 0;
+    margin-top: 50px;
+}
+
+.secao-sobre h1{
+    margin-bottom: 5px;
+    color: #1d1d1d;
+}
+
+.secao-sobre h2{
+    color: #1c81c0;
+    font-weight: normal;
+    margin-top: 0;
+}
+
+.secao-sobre img{
+    width: 450px;
+}
+
+.secao-sobre p span{
+    color: #1c81c0;
+}
+
+.secao-servicos{
+    background-color: #1c81c0;
+    color: white;
+}
+
+.secao-servicos h2{
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-servicos p{
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.secao-servicos ul{
+    margin: 40px auto 40px auto;
+    width: 135px;
+    text-align: left;
+    line-height: 42px;
+    font-size: 22px;
+}
+
+.secao-corretores{
+    padding: 0;
+    margin-top: 50px;
+}
+
+.secao-corretores img{
+    width: 450px;
+}
+
+.secao-corretores p span{
+    color: #1c81c0;
+}
+
+.secao-corretores h2{
+    color: #1c81c0;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.secao-contato{
+    background-color: #1c81c0;
+}
+
+.secao-contato h2{
+    color: white;
+    font-weight: bold;
+    margin-top: 0;
+}
+
+.secao-contato p{
+    color: white;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin: 30px auto 30px auto;
+}
+
+.secao-contato p span{
+    color: #fff81b;
+}
+
+.secao-contato ul{
+    margin: 40px auto 40px auto;
+    width: 210px;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
